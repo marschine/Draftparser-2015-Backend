@@ -8,5 +8,6 @@ public class MyApplication extends ResourceConfig {
 	public MyApplication() {
 		register(RequestContextFilter.class);
 		register(PaymentService.class);
+		register(Players.class);
 	}
 }
