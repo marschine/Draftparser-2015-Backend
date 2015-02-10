@@ -11,5 +11,8 @@
 
 	<bean id="TransactionBo"
 		class="de.marrrschine.draftparser.draftparser_backend.TransactionBoImpl" />
+		
+	<bean id="ProspectService"
+		class="de.marrrschine.draftparser.draftparser_backend.ProspectServiceImpl" />
 
 </beans>

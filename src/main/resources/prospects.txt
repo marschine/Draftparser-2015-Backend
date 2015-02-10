@@ -1,0 +1,998 @@
+1	Leonard Williams	DT	1	Southern California	Jr	6-5	298	1
+2	Jameis Winston	QB	1	Florida State	rSo	6-4	232	1
+3	Randy Gregory	DE	1	Nebraska	rJr	6-6	245	1
+4	Amari Cooper	WR	1	Alabama	Jr	6-1	210	1
+5	Marcus Mariota	QB	2	Oregon	rJr	6-4	215	1
+6	Brandon Scherff	OT	1	Iowa	rSr	6-5	320	1
+7	Danny Shelton	DT	2	Washington	Sr	6-2	343	1
+8	Shane Ray	DE	2	Missouri	rJr	6-3	245	1
+9	Dante Fowler Jr.	OLB	1	Florida	Jr	6-2	261	1
+10	Andrus Peat	OT	2	Stanford	Jr	6-7	312	1
+11	Landon Collins	SS	1	Alabama	Jr	6-0	222	1
+12	Kevin White	WR	2	West Virginia	Sr	6-3	210	1
+13	La'el Collins	OT	3	LSU	Sr	6-5	308	1
+14	T.J. Clemmings	OT	4	Pittsburgh	rSr	6-5	307	1
+15	Vic Beasley	OLB	2	Clemson	rSr	6-2	235	1
+16	DeVante Parker	WR	3	Louisville	Sr	6-3	209	1
+17	Alvin Dupree	DE	3	Kentucky	rSr	6-4	267	1
+18	Shaq Thompson	OLB	3	Washington	Jr	6-2	231	1
+19	Trae Waynes	CB	1	Michigan State	rJr	6-1	183	1
+20	Malcom Brown	DT	3	Texas	Jr	6-4	320	1
+21	Melvin Gordon	RB	1	Wisconsin	rJr	6-1	207	1
+22	Todd GurleyInjured	RB	2	Georgia	Jr	6-1	226	1
+23	Jordan Phillips	DT	4	Oklahoma	rSo	6-6	334	1
+24	Ereck Flowers	OT	5	Miami (Fla.)	Jr	6-5	324	1
+25	Dorial Green-Beckham	WR	4	Oklahoma	rJr	6-5	225	1
+26	Cameron Erving	OT	6	Florida State	rSr	6-5	308	1-2
+27	Jaelen Strong	WR	5	Arizona State	rJr	6-3	215	1-2
+28	Sammie Coates	WR	6	Auburn	rJr	6-2	213	1-2
+29	Marcus Peters	CB	2	Washington	rJr	6-0	198	1-2
+30	Eddie Goldman	DT	5	Florida State	Jr	6-3	320	1-2
+31	Quinten Rollins	CB	3	Miami (Ohio)	rSr	5-11	193	1-2
+32	Devin Funchess	WR	7	Michigan	Jr	6-5	230	1-2
+33	P.J. Williams	CB	4	Florida State	Jr	6-0	196	1-2
+34	Owamagbe Odighizuwa	DE	4	UCLA	rSr	6-4	266	1-2
+35	Maxx Williams	TE	1	Minnesota	rSo	6-4	250	1-2
+36	Eli Harold	OLB	4	Virginia	Jr	6-4	235	1-2
+37	Ty Sambrailo	OT	7	Colorado State	rSr	6-6	309	1-2
+38	Arik Armstead	DE	5	Oregon	Jr	6-7	296	1-2
+39	Carl Davis	DT	6	Iowa	rSr	6-5	321	1-2
+40	Ifo Ekpre-OlomuInjured	CB	5	Oregon	Sr	5-9	195	1-2
+41	Brett Hundley	QB	3	UCLA	rJr	6-3	227	2
+42	Nate Orchard	OLB	5	Utah	Sr	6-3	252	2
+43	Danielle Hunter	DE	6	LSU	Jr	6-6	240	2
+44	Paul Dawson	OLB	6	TCU	Sr	6-2	230	2
+45	A.J. Cann	OG	1	South Carolina	rSr	6-3	311	2
+46	Devin Smith	WR	8	Ohio State	Sr	6-0	190	2
+47	Ameer Abdullah	RB	3	Nebraska	Sr	5-8	198	2
+48	Eric Kendricks	ILB	1	UCLA	rSr	6-0	230	2
+49	Michael Bennett	DT	7	Ohio State	Sr	6-2	288	2
+50	Laken Tomlinson	OG	2	Duke	rSr	6-3	323	2
+51	Nelson Agholor	WR	9	Southern California	Jr	6-1	190	2
+52	Jay Ajayi	RB	4	Boise State	rJr	6-0	216	2
+53	Daryl Williams	OT	8	Oklahoma	rSr	6-5	334	2
+54	Denzel Perryman	ILB	2	Miami (Fla.)	Sr	5-11	244	2
+55	Mario Edwards Jr.	DE	7	Florida State	Jr	6-3	294	2
+56	Duke Johnson	RB	5	Miami (Fla.)	Jr	5-9	206	2
+57	Benardrick McKinney	ILB	3	Mississippi State	rJr	6-4	249	2
+58	Reese Dismukes	C	1	Auburn	Sr	6-3	295	2
+59	Clive Walford	TE	2	Miami (Fla.)	rSr	6-4	254	2
+60	Tevin ColemanInjured	RB	6	Indiana	Jr	6-0	210	2
+61	Cody Prewitt	FS	1	Ole Miss	Sr	6-2	212	2
+62	Xavier Cooper	DT	8	Washington State	rJr	6-4	298	2
+63	Jamison Crowder	WR	10	Duke	Sr	5-8	174	2
+64	DJoun Smith	CB	6	Florida Atlantic	Sr	5-10	189	2
+65	Alex Carter	CB	7	Stanford	Jr	6-0	200	2-3
+66	Tre' Jackson	OG	3	Florida State	Sr	6-4	323	2-3
+67	Anthony Harris	SS	2	Virginia	Sr	6-1	190	2-3
+68	Trey Flowers	DE	8	Arkansas	Sr	6-2	268	2-3
+69	Hauoli Kikaha	OLB	7	Washington	rSr	6-3	246	2-3
+70	Phillip Dorsett	WR	11	Miami (Fla.)	Sr	5-10	183	2-3
+71	Kevin Johnson	CB	8	Wake Forest	rSr	6-0	175	2-3
+72	Hroniss Grasu	C	2	Oregon	rSr	6-3	297	2-3
+73	Chris Hackett	FS	2	TCU	rJr	6-2	195	2-3
+74	Jake Fisher	OT	9	Oregon	Sr	6-6	299	2-3
+75	Jacoby Glenn	CB	9	UCF	rSo	6-0	178	2-3
+76	Rashad Greene	WR	12	Florida State	Sr	6-0	180	2-3
+77	T.J. Yeldon	RB	7	Alabama	Jr	6-2	221	2-3
+78	Gabe Wright	DT	9	Auburn	Sr	6-3	299	2-3
+79	Arie Kouandjio	OG	4	Alabama	rSr	6-5	318	2-3
+80	Mike Davis	RB	8	South Carolina	Jr	5-9	223	2-3
+81	Josh Harper	WR	13	Fresno State	rSr	6-1	189	2-3
+82	Jalen Collins	CB	10	LSU	rJr	6-2	198	2-3
+83	Jesse James	TE	3	Penn State	Jr	6-7	254	3
+84	Jaquiski Tartt	SS	3	Samford	rSr	6-1	220	3
+85	Tony Lippett	WR	14	Michigan State	rSr	6-3	192	3
+86	Josue Matias	OG	5	Florida State	Sr	6-6	325	3
+87	Gerod Holliman	FS	3	Louisville	rJr	6-0	201	3
+88	David Cobb	RB	9	Minnesota	Sr	5-11	229	3
+89	Preston Smith	DE	9	Mississippi State	Sr	6-5	270	3
+90	Lorenzo Mauldin	OLB	8	Louisville	Sr	6-4	256	3
+91	Kevin White	CB	11	TCU	rSr	5-9	180	3
+92	Derron Smith	FS	4	Fresno State	rSr	5-11	197	3
+93	David Johnson	RB	10	Northern Iowa	rSr	6-1	224	3
+94	Joey Mbu	DT	10	Houston	Sr	6-3	315	3
+95	Steven Nelson	CB	12	Oregon State	Sr	5-10	199	3
+96	John Miller	OG	6	Louisville	Sr	6-3	315	3
+97	Grady Jarrett	DT	11	Clemson	Sr	6-1	288	3
+98	Tyler Lockett	WR	15	Kansas State	Sr	5-10	181	3
+99	Za'Darius Smith	DE	10	Kentucky	Sr	6-5	270	3
+100	Cedric OgbuehiInjured	OT	10	Texas A&M	rSr	6-5	300	3
+101	Nick O'Leary	TE	4	Florida State	Sr	6-3	247	3-4
+102	Kwon Alexander	OLB	9	LSU	Jr	6-2	227	3-4
+103	Andy Gallik	C	3	Boston College	rSr	6-2	299	3-4
+104	Senquez Golson	CB	13	Ole Miss	Sr	5-9	178	3-4
+105	Garrett Grayson	QB	4	Colorado State	rSr	6-2	215	3-4
+106	Lynden Trail	DE	11	Norfolk State	rSr	6-6	262	3-4
+107	Breshad Perriman	WR	16	UCF	rJr	6-2	214	3-4
+108	Ben Koyack	TE	5	Notre Dame	Sr	6-5	249	3-4
+109	Donovan Smith	OT	11	Penn State	rJr	6-6	341	3-4
+110	Henry Anderson	DE	12	Stanford	rSr	6-6	287	3-4
+111	Justin Hardy	WR	17	East Carolina	Sr	5-11	190	3-4
+112	Jeremy Langford	RB	11	Michigan State	rSr	6-0	211	3-4
+113	Ramik Wilson	ILB	4	Georgia	Sr	6-2	237	3-4
+114	Ronald Darby	CB	14	Florida State	Jr	5-11	195	3-4
+115	Jeremiah Poutasi	OT	12	Utah	Jr	6-6	322	3-4
+116	Markus Golden	OLB	10	Missouri	rSr	6-2	255	3-4
+117	Bryce Petty	QB	5	Baylor	rSr	6-3	230	3-4
+118	Javorius Allen	RB	12	Southern California	rJr	6-1	220	3-4
+119	Tyler Kroft	TE	6	Rutgers	rJr	6-5	240	3-4
+120	Ali Marpet	OG	7	Hobart	Sr	6-4	307	3-4
+121	Josh Shaw	CB	15	Southern California	rSr	6-1	198	3-4
+122	Kaleb Eulls	DT	12	Mississippi State	rSr	6-3	305	3-4
+123	Ty Montgomery	WR	18	Stanford	Sr	6-0	216	3-4
+124	Ibraheim Campbell	SS	4	Northwestern	rSr	6-0	210	3-4
+125	Anthony Chickillo	DE	13	Miami (Fla.)	Sr	6-3	271	4
+126	Cedric ReedInjured	DE	14	Texas	Sr	6-6	271	4
+127	Doran Grant	CB	16	Ohio State	Sr	5-10	199	4
+128	Cameron Artis-Payne	RB	13	Auburn	Sr	5-10	212	4
+129	Jeff Heuerman	TE	7	Ohio State	Sr	6-5	255	4
+130	Geneo Grissom	OLB	11	Oklahoma	rSr	6-3	264	4
+131	Ladarius Gunter	CB	17	Miami (Fla.)	rSr	6-1	200	4
+132	Rob Havenstein	OT	13	Wisconsin	rSr	6-7	332	4
+133	Christian Covington	DT	13	Rice	rJr	6-3	295	4
+134	Vince Mayle	WR	19	Washington State	rSr	6-2	219	4
+135	Zach Hodges	OLB	12	Harvard	Sr	6-3	244	4
+136	Lorenzo Doss	CB	18	Tulane	Jr	5-11	187	4
+137	Marcus Hardison	DT	14	Arizona State	Sr	6-3	311	4
+138	Durrell Eskridge	FS	5	Syracuse	rJr	6-3	203	4
+139	Stephone Anthony	ILB	5	Clemson	Sr	6-2	245	4
+140	Dres AndersonInjured	WR	20	Utah	Sr	6-2	190	4
+141	Jordan Richards	SS	5	Stanford	Sr	5-11	211	4-5
+142	Jamil Douglas	OG	8	Arizona State	rSr	6-4	307	4-5
+143	Terrance Magee	RB	14	LSU	Sr	5-9	220	4-5
+144	B.J. Finney	C	4	Kansas State	rSr	6-4	324	4-5
+145	Nick Boyle	TE	8	Delaware	Sr	6-5	267	4-5
+146	Corey Crawford	DE	15	Clemson	rSr	6-5	270	4-5
+147	Charles Gaines	CB	19	Louisville	rJr	5-11	175	4-5
+148	Kurtis Drummond	FS	6	Michigan State	rSr	6-1	205	4-5
+149	Martrell Spaight	OLB	13	Arkansas	Sr	6-0	232	4-5
+150	Ellis McCarthy	DT	15	UCLA	Jr	6-4	330	4-5
+151	Austin Shepherd	OT	14	Alabama	rSr	6-5	324	4-5
+152	Eric Rowe	CB	20	Utah	Sr	6-1	204	4-5
+153	Jalston Fowler	FB	1	Alabama	rSr	5-11	264	4-5
+154	Jordan Hicks	OLB	14	Texas	rSr	6-2	241	4-5
+155	JaCorey Shepherd	CB	21	Kansas	Sr	5-11	199	4-5
+156	Stefon DiggsInjured	WR	21	Maryland	Jr	6-0	195	4-5
+157	Clayton Geathers	SS	6	UCF	rSr	6-1	212	4-5
+158	Austin Hill	WR	22	Arizona	rSr	6-2	210	4-5
+159	Robert Myers	OG	9	Tennessee State	rSr	6-5	329	4-5
+160	Deontay Greenberry	WR	23	Houston	Jr	6-3	198	4-5
+161	Ray Drew	DE	16	Georgia	Sr	6-4	284	5
+162	Taiwan Jones	ILB	6	Michigan State	Sr	6-3	258	5
+163	Xzavier Dickson	OLB	15	Alabama	Sr	6-3	268	5
+164	Xavier Williams	DT	16	Northern Iowa	rSr	6-2	325	5
+165	Corey Robinson	OT	15	South Carolina	rSr	6-7	344	5
+166	Ben Heeney	ILB	7	Kansas	Sr	6-0	226	5
+167	Dominique Brown	RB	15	Louisville	rSr	6-2	232	5
+168	Nick Marshall	CB	22	Auburn	Sr	6-2	205	5
+169	Tyler Varga	FB	2	Yale	Sr	5-10	227	5
+170	MyCole Pruitt	TE	9	Southern Illinois	rSr	6-3	254	5
+171	Shaquille Mason	C	5	Georgia Tech	Sr	6-2	310	5
+172	Tre McBride	WR	24	William & Mary	Sr	6-1	205	5
+173	Matt Jones	RB	16	Florida	Jr	6-1	235	5
+174	Quandre Diggs	CB	23	Texas	Sr	5-9	196	5
+175	Miles DieffenbachInjured	OG	10	Penn State	rSr	6-3	303	5
+176	Leterrius Walton	DT	17	Central Michigan	rSr	6-5	321	5-6
+177	Dezmin Lewis	WR	25	Central Arkansas	rSr	6-4	215	5-6
+178	Deion Barnes	DE	17	Penn State	rJr	6-4	260	5-6
+179	Karlos Williams	RB	17	Florida State	Sr	6-1	225	5-6
+180	Deshazor Everett	CB	24	Texas A&M	Sr	5-11	188	5-6
+181	Adrian Amos	FS	7	Penn State	Sr	6-1	214	5-6
+182	Adam Shead	OG	11	Oklahoma	rSr	6-4	340	5-6
+183	Malcolm Agnew	RB	18	Southern Illinois	Sr	5-9	205	5-6
+184	Shane Carden	QB	6	East Carolina	Sr	6-2	218	5-6
+185	Justin Manton	K	1	Louisiana-Monroe	Sr	6-3	196	5-6
+186	Max Valles	OLB	16	Virginia	rSo	6-5	240	5-6
+187	Antwan Goodley	WR	26	Baylor	rSr	5-11	210	5-6
+188	Craig Mager	CB	25	Texas State	rSr	6-0	191	5-6
+189	E.J. Bibbs	TE	10	Iowa State	Sr	6-3	261	5-6
+190	Sean Hickey	OT	16	Syracuse	rSr	6-6	308	5-6
+191	Derrick Lott	DT	18	Chattanooga	rSr	6-4	299	5-6
+192	Anthony Jefferson	SS	7	UCLA	rSr	6-1	194	5-6
+193	Mike Hull	ILB	8	Penn State	rSr	6-0	231	5-6
+194	Rannell Hall	WR	27	UCF	Sr	6-0	193	5-6
+195	Tony Washington	OLB	17	Oregon	rSr	6-3	250	5-6
+196	Hayes Pullard	ILB	9	Southern California	rSr	6-0	236	5-6
+197	Wes Saxton	TE	11	South Alabama	Sr	6-4	243	5-6
+198	Zach Wagenmann	DE	18	Montana	rSr	6-3	247	6
+199	Tayo Fabuluje	OT	17	TCU	rSr	6-7	353	6
+200	Kenny Bell	WR	28	Nebraska	rSr	6-1	185	6
+201	Tyrus Thompson	OT	18	Oklahoma	rSr	6-5	336	6
+202	Josh Robinson	RB	19	Mississippi State	rJr	5-9	215	6
+203	Jake Ryan	OLB	18	Michigan	rSr	6-3	238	6
+204	Tyeler Davison	DT	19	Fresno State	rSr	6-2	315	6
+205	Sean Mannion	QB	7	Oregon State	rSr	6-6	229	6
+206	Martin Ifedi	DE	19	Memphis	rSr	6-3	274	6
+207	Ben Beckwith	OG	12	Mississippi State	rSr	6-4	317	6
+208	Damarious Randall	FS	8	Arizona State	rSr	5-11	194	6
+209	James Sample	SS	8	Louisville	rJr	6-2	192	6
+210	Damian Swann	CB	26	Georgia	Sr	6-0	180	6
+211	J.R. Tavai	OLB	19	Southern California	Sr	6-1	248	6
+212	Blake Bell	TE	12	Oklahoma	rSr	6-6	263	6
+213	Titus Davis	WR	29	Central Michigan	Sr	6-2	190	6
+214	Imoan Claiborne	CB	27	Northwestern State	rSr	5-10	189	6
+215	Bryce Hager	ILB	10	Baylor	rSr	6-1	230	6
+216	Blake Sims	QB	8	Alabama	rSr	6-0	223	6-7
+217	James Vaughters	OLB	20	Stanford	Sr	6-2	258	6-7
+218	James Castleman	DT	20	Oklahoma State	Sr	6-3	311	6-7
+219	Malcolm Brown	RB	20	Texas	Sr	6-0	223	6-7
+220	Shaquille Riddick	DE	20	West Virginia	Sr	6-6	236	6-7
+221	Conner Neighbors	FB	3	LSU	rSr	5-10	242	6-7
+222	Trey DePriest	ILB	11	Alabama	Sr	6-1	250	6-7
+223	Kyle Loomis	P	1	Portland State	rSr	6-2	222	6-7
+224	Max Garcia	C	6	Florida	rSr	6-5	305	6-7
+225	Louis Trinca-Pasat	DT	21	Iowa	rSr	6-1	291	6-7
+226	Jermauria Rasco	DE	21	LSU	Sr	6-4	259	6-7
+227	Derrick Malone Jr.	OLB	21	Oregon	rSr	6-2	220	6-7
+228	Cam Thomas	CB	28	Western Kentucky	rSr	6-0	195	6-7
+229	Jean Sifrin	TE	13	Massachusetts	Jr	6-6	250	6-7
+230	Davis Tull	OLB	22	Chattanooga	rSr	6-3	244	6-7
+231	DaVaris Daniels	WR	30	Notre Dame	rJr	6-2	205	6-7
+232	Jon Feliciano	OG	13	Miami (Fla.)	rSr	6-4	335	6-7
+233	Tevin McDonald	FS	9	Eastern Washington	rSr	5-11	192	6-7
+234	Bobby McCain	CB	29	Memphis	Sr	5-10	192	6-7
+235	Eric Lefeld	OT	19	Cincinnati	rSr	6-6	310	6-7
+236	Levi Norwood	WR	31	Baylor	rSr	6-0	193	6-7
+237	Connor HallidayInjured	QB	9	Washington State	rSr	6-4	198	7
+238	Marcus Murphy	RB	21	Missouri	rSr	5-8	188	7
+239	Alani Fua	OLB	23	Brigham Young	rSr	6-5	228	7
+240	Jarvis Harrison	OG	14	Texas A&M	rSr	6-4	344	7
+241	Erick Dargan	SS	9	Oregon	rSr	5-11	217	7
+242	Brock Hekking	DE	22	Nevada	rSr	6-3	250	7
+243	Devante Davis	WR	32	UNLV	Sr	6-3	220	7
+244	Justin Coleman	CB	30	Tennessee	Sr	5-11	184	7
+245	Tyler Heinicke	QB	10	Old Dominion	Sr	6-1	211	7
+246	Chucky Hunter	DT	22	TCU	Sr	6-0	298	7
+247	Zach Zenner	FB	4	South Dakota State	rSr	6-0	218	7
+248	Junior Sylvestre	OLB	24	Toledo	Sr	6-0	222	7
+249	D.J. HumphriesInjured	OT	20	Florida	Jr	6-5	290	7
+250	Casey Pierce	TE	14	Kent State	rSr	6-4	244	7
+251	Jordan Taylor	WR	33	Rice	rSr	6-5	204	7
+252	Mark Glowinski	OG	15	West Virginia	rSr	6-5	310	7
+253	Byron JonesInjured	CB	31	Connecticut	rSr	6-1	196	7
+254	Travis Raciti	DT	23	San Jose State	rSr	6-4	292	7
+255	Evan Spencer	WR	34	Ohio State	Sr	6-2	208	7
+256	Aaron Davis	OLB	25	Colorado State	Sr	6-0	220	7
+257	Marcus Rush	DE	23	Michigan State	rSr	6-2	243	7-FA
+258	Detrick Bonner	FS	10	Virginia Tech	rSr	6-1	203	7-FA
+259	Cody Fajardo	QB	11	Nevada	rSr	6-2	222	7-FA
+260	AJ Tarpley	ILB	12	Stanford	rSr	6-0	233	7-FA
+261	Trevor Pardula	P	2	Kansas	Sr	6-5	212	7-FA
+262	Kyshoen Jarrett	SS	10	Virginia Tech	Sr	5-11	192	7-FA
+263	Ryan Russell	DE	24	Purdue	rSr	6-5	267	7-FA
+264	Deon Long	WR	35	Maryland	rSr	6-0	188	7-FA
+265	Bernard Blake	CB	32	Colorado State	rSr	5-11	177	7-FA
+266	Gerald Christian	TE	15	Louisville	rSr	6-3	242	7-FA
+267	Brandon Bridge	QB	12	South Alabama	rSr	6-4	226	7-FA
+268	Edmond Robinson	OLB	26	Newberry	Sr	6-3	251	7-FA
+269	Frank Clark	DE	25	Michigan	Sr	6-2	270	7-FA
+270	Bryce Callahan	CB	33	Rice	rSr	5-10	184	7-FA
+271	Michael Dyer	RB	22	Louisville	rSr	5-9	215	7-FA
+272	Jamon Brown	OT	21	Louisville	Sr	6-4	330	7-FA
+273	Shane McDermott	C	7	Miami (Fla.)	rSr	6-4	302	7-FA
+274	Donatella Luckett	WR	36	Harding	Sr	6-0	206	7-FA
+275	Kyle Christy	P	3	Florida	Sr	6-2	202	7-FA
+276	Jeff Luc	ILB	13	Cincinnati	rSr	6-0	263	7-FA
+277	John Crockett	RB	23	North Dakota State	rSr	6-0	217	7-FA
+278	Bryan Bennett	QB	13	Southeastern Louisiana	rSr	6-2	210	7-FA
+279	Hunter Joyer	FB	5	Florida	Sr	5-11	232	7-FA
+280	Houston Bates	OLB	27	Louisiana Tech	rSr	6-1	245	7-FA
+281	Jaxon Shipley	WR	37	Texas	Sr	6-1	193	7-FA
+282	Ryan Delaire	DE	26	Towson	rSr	6-4	250	7-FA
+283	Darius Philon	DT	24	Arkansas	rSo	6-2	272	7-FA
+284	Dechane Durante	FS	11	Northern Illinois	rSr	6-2	194	7-FA
+285	Brett Boyko	OT	22	UNLV	Sr	6-7	310	7-FA
+286	C.J. Uzomah	TE	16	Auburn	Sr	6-5	262	7-FA
+287	Sam Carter	SS	11	TCU	rSr	6-0	216	7-FA
+288	Devin Gardner	WR	38	Michigan	rSr	6-4	217	7-FA
+289	Zach Zwinak	FB	6	Penn State	rSr	6-1	233	7-FA
+290	Hutson Mason	QB	14	Georgia	rSr	6-2	207	7-FA
+291	Zaire Anderson	OLB	28	Nebraska	rSr	5-11	224	7-FA
+292	Terry Poole	OT	23	San Diego State	rSr	6-5	307	7-FA
+293	Kyle Costigan	OG	16	Wisconsin	rSr	6-4	315	7-FA
+294	Greg ManczInjured	C	8	Toledo	rSr	6-5	307	7-FA
+295	Matt MillerInjured	WR	39	Boise State	rSr	6-3	220	7-FA
+296	Kenny Hilliard	RB	24	LSU	Sr	6-0	235	7-FA
+297	Kyle Brindza	K	2	Notre Dame	rSr	6-1	236	7-FA
+298	Obum Gwacham	DE	27	Oregon State	rSr	6-5	231	7-FA
+299	Troy Hill	CB	34	Oregon	rSr	5-10	168	7-FA
+300	Mike Sadler	P	4	Michigan State	rSr	5-11	182	7-FA
+301	C.J. Olaniyan	OLB	29	Penn State	rSr	6-3	250	7-FA
+302	Justin Cox	FS	12	Mississippi State	Sr	6-2	190	7-FA
+303	Brian Blechen	SS	12	Utah	rSr	6-2	216	7-FA
+304	Joey Iosefa	FB	7	Hawaii	rSr	6-0	245	7-FA
+305	Chris Conley	WR	40	Georgia	Sr	6-2	207	7-FA
+306	Warren Herring	DT	25	Wisconsin	rSr	6-2	294	7-FA
+307	Dee Hart	RB	25	Colorado State	rJr	5-8	189	7-FA
+308	Chris Bonner	QB	15	Colorado State - Pueblo	Sr	6-6	237	7-FA
+309	Curtis Riley	CB	35	Fresno State	Sr	6-0	190	7-FA
+310	Leon Brown	OG	17	Alabama	Sr	6-6	346	7-FA
+311	Trenton Brown	OT	24	Florida	Sr	6-9	376	7-FA
+312	Sam Arneson	TE	17	Wisconsin	Sr	6-4	254	7-FA
+313	Chris Harper	WR	41	California	Jr	5-11	176	7-FA
+314	Amarlo Herrera	ILB	14	Georgia	Sr	6-0	243	7-FA
+315	Andrew East	LS	1	Vanderbilt	rSr	6-2	239	7-FA
+316	Kyle Emanuel	DE	28	North Dakota State	rSr	6-3	250	7-FA
+317	Dyshawn Davis	OLB	30	Syracuse	Sr	6-2	222	7-FA
+318	Mitch Morse	OT	25	Missouri	rSr	6-5	305	7-FA
+319	Jonathon Mincy	CB	36	Auburn	rSr	5-10	196	7-FA
+320	Dean Marlowe	FS	13	James Madison	rSr	6-2	206	7-FA
+321	Brandon Vitabile	C	9	Northwestern	rSr	6-2	304	7-FA
+322	Trey Williams	RB	26	Texas A&M	Jr	5-8	195	7-FA
+323	Damian Parms	SS	13	Florida Atlantic	Sr	6-1	206	7-FA
+324	Brandon Ivory	DT	26	Alabama	rSr	6-3	308	7-FA
+325	Zach Vigil	ILB	15	Utah State	rSr	6-2	238	7-FA
+326	Darius Kilgo	DT	27	Maryland	rSr	6-4	320	7-FA
+327	Darren Waller	WR	42	Georgia Tech	Sr	6-6	242	7-FA
+328	Ryan Mueller	DE	29	Kansas State	Sr	6-2	245	7-FA
+329	Mark Weisman	FB	8	Iowa	Sr	6-0	240	7-FA
+330	Chaz Green	OT	26	Florida	rSr	6-5	300	7-FA
+331	Rory Anderson	TE	18	South Carolina	Sr	6-5	227	7-FA
+332	Julian Wilson	CB	37	Oklahoma	rSr	6-2	201	7-FA
+333	Bill Vavau	OG	18	Utah State	Sr	6-4	314	7-FA
+334	Maurice Falls	OLB	31	East Carolina	rSr	6-3	247	7-FA
+335	Dreamius Smith	RB	27	West Virginia	Sr	5-11	217	7-FA
+336	David Andrews	C	10	Georgia	Sr	6-3	294	7-FA
+337	Tra'Mayne Bondurant	FS	14	Arizona	Sr	5-10	212	7-FA
+338	Wil Baumann	P	5	North Carolina State	Sr	6-5	197	7-FA
+339	Aaron Ripkowski	FB	9	Oklahoma	Sr	6-1	255	7-FA
+340	Isaiah Johnson	SS	14	Georgia Tech	rSr	6-1	213	7-FA
+341	Rakeem Nunez-Roches	DT	28	Southern Mississippi	rJr	6-2	305	7-FA
+342	Sam Ficken	K	3	Penn State	Sr	6-2	186	7-FA
+343	Cam Worthy	WR	43	East Carolina	rSr	6-2	220	7-FA
+344	Matt Rotheram	OG	19	Pittsburgh	rSr	6-5	340	7-FA
+344	Mickey Baucus	OT	27	Arizona	rSr	6-8	309	––
+345	Cody Riggs	CB	38	Notre Dame	rSr	5-9	186	7-FA
+346	A.J. Johnson	ILB	16	Tennessee	Sr	6-2	242	7-FA
+347	Spencer Roth	P	6	Baylor	Sr	6-5	223	7-FA
+348	Devin Mahina	TE	19	Brigham Young	rSr	6-6	256	7-FA
+349	Ray Vinopal	FS	15	Pittsburgh	rSr	5-10	200	7-FA
+350	Junior Salt	OG	20	Utah	rSr	6-2	315	7-FA
+351	Ronald Martin	SS	15	LSU	Sr	6-1	217	––
+353	Dillon Day	C	11	Mississippi State	rSr	6-4	305	––
+354	Jared Roberts	K	4	Colorado State	Sr	6-0	210	––
+355	Terrance Plummer	ILB	17	UCF	Sr	5-11	235	––
+356	SaQwan Edwards	CB	39	New Mexico	rSr	6-0	194	––
+357	Jamarcus Nelson	WR	44	UAB	rSr	5-11	160	––
+358	Eric Tomlinson	TE	20	Texas-El Paso	rSr	6-5	262	––
+359	Bradley Pinion	P	7	Clemson	Jr	6-5	230	––
+360	Jake Waters	QB	16	Kansas State	Sr	6-1	210	––
+361	David Mayo	ILB	18	Texas State	rSr	6-1	242	––
+362	James Rouse	DE	30	Marshall	rSr	6-4	272	––
+363	Kasen Williams	WR	45	Washington	Sr	6-2	219	––
+364	Michael OrakpoInjured	OLB	32	Texas State	rSr	6-1	226	––
+365	Blaine Clausell	OT	28	Mississippi State	rSr	6-6	325	––
+366	Grant Hedrick	QB	17	Boise State	rSr	6-0	191	––
+367	Cory Morrissey	DE	31	Iowa State	Sr	6-4	260	––
+368	Cody Wichmann	OG	21	Fresno State	rSr	6-6	315	––
+369	Jahwan Edwards	RB	28	Ball State	Sr	5-9	215	––
+370	Keith Mumphery	WR	46	Michigan State	rSr	6-0	211	––
+371	De'Ante Saunders	CB	40	Tennessee State	Sr	5-9	185	––
+372	Doniel Gambrell	OT	29	Notre Dame College	rSr	6-5	306	––
+373	Reshard Cliett	OLB	33	South Florida	rSr	6-2	232	––
+374	Bud Sasser	WR	47	Missouri	rSr	6-2	210	––
+375	Corey Grant	RB	29	Auburn	rSr	5-10	205	––
+376	John Timu	ILB	19	Washington	Sr	6-0	241	––
+377	Jordan Haden	FS	16	Toledo	Sr	5-11	200	––
+378	Ryan Williams	QB	18	Miami (Fla.)	rSr	6-5	222	––
+379	Geremy Davis	WR	48	Connecticut	rSr	6-2	219	––
+380	B.J. Dubose	DE	32	Louisville	Sr	6-4	266	––
+381	Daniel Fitzpatrick	SS	16	Tennessee State	Sr	6-1	206	––
+382	Merrill Noel	CB	41	Wake Forest	rSr	5-10	180	––
+383	Joe Cardona	LS	2	Navy	rSr	6-2	241	––
+384	Nick Harwell	WR	49	Kansas	rSr	5-11	193	––
+385	David Helton	OLB	34	Duke	Sr	6-3	235	––
+386	Dallas Lewallen	OG	22	Wisconsin	rSr	6-6	322	––
+387	Curtis Grant	ILB	20	Ohio State	Sr	6-3	240	––
+388	Bryon Bennett	DT	29	Ole Miss	rSr	6-2	293	––
+389	Quinterrius Eatmon	OT	30	South Florida	rSr	6-6	313	––
+390	Jake Kumerow	WR	50	Wisconsin-Whitewater	rSr	6-4	208	––
+391	Kevin Parks	RB	30	Virginia	rSr	5-7	201	––
+392	Jerry Lovelocke	QB	19	Prairie View A&M	rSr	6-5	245	––
+393	Donald Celiscar	CB	42	Western Michigan	Sr	5-11	197	––
+394	Mario Alford	WR	51	West Virginia	Sr	5-8	177	––
+395	Kivon Cartwright	TE	21	Colorado State	rSr	6-4	245	––
+396	Tom Obarski	K	5	Concordia-St. Paul	Sr	5-10	177	––
+397	Brian Mihalik	DE	33	Boston College	Sr	6-9	288	––
+398	Ryan Murphy	FS	17	Oregon State	rSr	6-1	209	––
+399	Hamani Stevens	OG	23	Oregon	rSr	6-3	307	––
+400	Andre Davis	WR	52	South Florida	Sr	6-1	207	––
+401	Rob Crisp	OT	31	North Carolina State	rSr	6-7	300	––
+402	Steve Edmond	ILB	21	Texas	Sr	6-3	253	––
+403	Serderius Bryant	SS	17	Ole Miss	Sr	5-9	220	––
+404	Bo WallaceInjured	QB	20	Ole Miss	Sr	6-4	217	––
+405	Ezell Ruffin	WR	53	San Diego State	rSr	6-0	220	––
+406	Garry Peters	CB	43	Clemson	rSr	6-0	185	––
+407	Desmond Hollin	DT	30	Florida State	Sr	6-3	285	––
+408	Darragh O???Neill	P	8	Colorado	Sr	6-1	187	––
+409	Mark Nzeocha	OLB	35	Wyoming	Sr	6-3	239	––
+410	Thomas Rawls	RB	31	Central Michigan	Sr	5-10	217	––
+411	Nigel King	WR	54	Kansas	rJr	6-2	213	––
+412	Tim Scott	FS	18	North Carolina	Sr	5-11	189	––
+413	Kaleb Johnson	OG	24	Rutgers	Sr	6-4	305	––
+414	Blake Lueders	DE	34	Stanford	rSr	6-5	260	––
+415	Brey Cook	OT	32	Arkansas	Sr	6-6	314	––
+416	Justin McCay	WR	55	Kansas	rSr	6-2	210	––
+417	Tye Smith	CB	44	Towson	Sr	6-0	191	––
+418	Randall Telfer	TE	22	Southern California	rSr	6-3	242	––
+419	John Lowdermilk	SS	18	Iowa	Sr	6-1	210	––
+420	Taylor Kelly	QB	21	Arizona State	rSr	6-2	198	––
+421	Malcome Kennedy	WR	56	Texas A&M	rSr	6-0	205	––
+422	Chris Jasperse	C	12	Marshall	rSr	6-3	297	––
+423	Quayshawn Nealy	ILB	22	Georgia Tech	rSr	6-0	237	––
+424	Andrew Donnal	OT	33	Iowa	rSr	6-6	305	––
+425	Greg Henderson	CB	45	Colorado	Sr	5-11	181	––
+426	Jimmay Mundine	FB	10	Kansas	rSr	6-2	237	––
+427	Jarrod West	WR	57	Syracuse	rSr	6-2	209	––
+428	B.J. Catalon	RB	32	TCU	Jr	5-9	190	––
+429	B.J. Larsen	DE	35	Utah State	rSr	6-5	271	––
+430	Rowdy Harper	OG	25	Houston	rSr	6-6	295	––
+431	Jake Smith	C	13	Louisville	rSr	6-3	312	––
+432	Tommy Shuler	WR	58	Marshall	Sr	5-7	188	––
+433	Daryl Waud	DT	31	Western Ontario	Sr	6-5	294	––
+434	Jameill Showers	QB	22	Texas-El Paso	rSr	6-1	231	––
+435	Norkeithus Otis	OLB	36	North Carolina	Sr	6-1	240	––
+436	Jeremiah Johnson	CB	46	Maryland	rSr	5-11	195	––
+437	Tony Jones	WR	59	Northwestern	rSr	5-11	197	––
+438	Jermaine Whitehead	FS	19	Auburn	Sr	5-11	193	––
+439	Tavaris BarnesInjured	DE	36	Clemson	rSr	6-4	275	––
+440	Micah Hatchie	OT	34	Washington	rSr	6-4	301	––
+441	Khari Lee	TE	23	Bowie State	Sr	6-3	262	––
+442	Terris Jones-Grigsby	RB	33	Arizona	rSr	5-7	198	––
+443	De'Marieya Nelson	FB	11	Arizona State	rSr	6-2	235	––
+444	DeAndrew White	WR	60	Alabama	rSr	6-0	192	––
+445	Robertson Daniel	CB	47	Brigham Young	Sr	6-1	198	––
+446	Quinton Alston	ILB	23	Iowa	Sr	6-1	232	––
+447	Jermaine Barton	OT	35	Illinois State	rSr	6-7	315	––
+448	Trevor Harris	DE	37	Houston	Sr	6-5	233	––
+449	Sam Irwin-Hill	P	9	Arkansas	Sr	6-2	203	––
+450	Gary Nova	QB	23	Rutgers	Sr	6-1	226	––
+451	Christion Jones	WR	61	Alabama	Sr	5-11	187	––
+452	Akeem Hunt	RB	34	Purdue	Sr	5-10	183	––
+453	Nick Perry	FS	20	Alabama	rSr	6-1	205	––
+454	Collin Ellis	OLB	37	Northwestern	rSr	6-2	230	––
+455	Corey Cooper	SS	19	Nebraska	rSr	6-1	209	––
+456	Thomas Teal	DT	32	North Carolina State	rSr	6-1	308	––
+457	Jamal TurnerInjured	WR	62	Nebraska	Sr	6-1	185	––
+458	Larry Dixon	FB	12	Army	Sr	5-10	237	––
+459	AJ Derby	TE	24	Arkansas	rSr	6-4	255	––
+460	Nick Waisome	CB	48	Florida State	Sr	5-10	182	––
+461	Robert Singletary	DE	38	Texas-San Antonio	rSr	6-2	250	––
+462	Quinton Spain	OG	26	West Virginia	rSr	6-4	332	––
+463	Terrell Watson	RB	35	Azusa Pacific	Sr	6-1	239	––
+464	Michael Bennett	WR	63	Georgia	rSr	6-2	202	––
+465	Jake Rodgers	OT	36	Eastern Washington	rSr	6-5	313	––
+466	Damien Wilson	ILB	24	Minnesota	Sr	6-0	243	––
+467	Steven Gurrola	C	14	Arizona	Sr	6-2	291	––
+468	Olsen Pierre	DT	33	Miami (Fla.)	Sr	6-4	300	––
+469	Matt Robinson	OLB	38	Maryland	rSr	6-3	240	––
+470	Robenson Therezie	SS	20	Auburn	Sr	5-9	208	––
+471	Sean Donnelly	OT	37	Tulane	rSr	6-8	317	––
+472	Raymon Taylor	CB	49	Michigan	Sr	5-10	182	––
+473	Gabe Holmes	TE	25	Purdue	rSr	6-5	256	––
+474	Andrew Hudson	DE	39	Washington	rSr	6-2	250	––
+475	DeAndre Carter	WR	64	Sacramento State	Sr	5-8	194	––
+476	Cole Stoudt	QB	24	Clemson	Sr	6-4	218	––
+477	Synjyn Days	RB	36	Georgia Tech	rSr	6-1	232	––
+478	Brison Williams	SS	21	South Carolina	Sr	5-11	208	––
+479	Travell Dixon	CB	50	Washington	rSr	6-0	198	––
+480	Al Bond	OG	27	Memphis	rSr	6-3	300	––
+481	Kyle Woestmann	OLB	39	Vanderbilt	rSr	6-3	253	––
+482	Kaelin Clay	WR	65	Utah	Sr	5-10	190	––
+483	Trevor SiemianInjured	QB	25	Northwestern	rSr	6-3	210	––
+484	Quayshawne Buckley	DT	34	Idaho	rSr	6-3	305	––
+485	Connor Hamlett	TE	26	Oregon State	rSr	6-7	265	––
+486	Michael Taylor	ILB	25	Florida	rSr	5-11	227	––
+487	Kevonte Martin-Manley	WR	66	Iowa	rSr	6-0	205	––
+488	David Peterson	C	15	San Jose State	rSr	6-4	294	––
+489	Jordan Allen	DE	40	Arizona	rSr	6-5	254	––
+490	Drequan Hoskey	CB	51	Virginia	rSr	6-0	180	––
+491	Takoby Cofield	OT	38	Duke	rSr	6-4	305	––
+492	Kenny Williams	RB	37	Texas Tech	Sr	5-9	225	––
+493	Neiron BallInjured	OLB	40	Florida	rSr	6-2	230	––
+494	J.J. Worton	WR	67	UCF	rSr	6-2	209	––
+495	Malcolm Johnson	FB	13	Mississippi State	rSr	6-1	231	––
+496	Justin Halley	FS	21	Florida International	rSr	6-3	200	––
+497	Thomas Hibbard	P	10	North Carolina	Sr	5-10	190	––
+498	Le'Vander Liggins	CB	52	Louisiana Tech	Sr	5-10	191	––
+499	Tyler Loos	OT	39	Northern Illinois	rSr	6-5	302	––
+500	Tyler Moore	OG	28	Florida	rJr	6-5	325	––
+501	Deiontrez Mount	DE	41	Louisville	Sr	6-5	243	––
+502	Keyarris Garrett	WR	68	Tulsa	Sr	6-3	206	––
+503	Easton Wahlstrom	LS	3	Arizona State	Jr	6-0	244	––
+504	Cameron Botticelli	DT	35	Minnesota	rSr	6-4	292	––
+505	Josh Lambo	K	6	Texas A&M	Sr	6-0	220	––
+506	Gus Johnson	RB	38	Stephen F. Austin	Sr	5-10	224	––
+507	Demetrius Wilson	WR	69	Arkansas	Sr	6-2	198	––
+508	Terell Floyd	CB	53	Louisville	Sr	5-9	187	––
+509	Quinn Epperly	QB	26	Princeton	Sr	6-1	218	––
+510	Torrian Wilson	OG	29	UCF	rSr	6-3	305	––
+511	Corey Moore	SS	22	Georgia	Sr	6-2	206	––
+512	George Farmer	WR	70	Southern California	rJr	6-1	220	––
+513	Thurston Armbrister	OLB	41	Miami (Fla.)	Sr	6-2	241	––
+514	Cheatham NorrilsInjured	CB	54	Toledo	Sr	6-0	195	––
+515	Matt Hermanson	FS	22	Montana	Sr	6-1	198	––
+516	Cameron Clear	TE	27	Texas A&M	rSr	6-5	273	––
+517	Anthony Boone	QB	27	Duke	rSr	6-1	238	––
+518	Joseph Treadwell	OT	40	Louisiana-Monroe	Sr	6-5	324	––
+519	Brandon Wegher	RB	39	Morningside	rSr	5-11	210	––
+520	Anthony Johnson	WR	71	West Texas A&M	rSr	6-1	194	––
+521	Tevin Mitchel	CB	55	Arkansas	Sr	6-0	183	––
+522	Chuka Ndulue	DT	36	Oklahoma	rSr	6-2	288	––
+523	Mitchell Bell	OG	30	Louisiana Tech	rSr	6-2	348	––
+524	Sonny Puletasi	DE	42	Wyoming	rSr	6-3	251	––
+525	Jabral Johnson	ILB	26	Oregon State	Sr	6-0	224	––
+526	Jack Rummells	OT	41	Northern Iowa	rSr	6-5	300	––
+527	Zach Laskey	FB	14	Georgia Tech	Sr	6-0	218	––
+528	Jesse Schmitt	LS	4	Purdue	rSr	6-2	245	––
+529	Rakeem Cato	QB	28	Marshall	Sr	5-11	171	––
+530	Jordon James	RB	40	UCLA	rSr	5-8	194	––
+531	Braylon Mitchell	OLB	42	Arkansas	rSr	6-1	226	––
+532	Antwan Crutcher	DT	37	Ohio	Sr	6-2	297	––
+533	Westlee Tonga	TE	28	Utah	rSr	6-3	240	––
+534	Quinton Dunbar	WR	72	Florida	rSr	6-1	195	––
+535	Jabari Gorman	FS	23	Florida	Sr	5-10	184	––
+536	Terrell Pinson	SS	23	Louisiana Tech	Sr	6-2	210	––
+537	Marlin Lane Jr.	RB	41	Tennessee	Sr	5-11	210	––
+538	Al-Hajj Shabazz	CB	56	West Chester	Sr	6-0	202	––
+539	Lamar DawsonInjured	ILB	27	Southern California	Sr	6-1	230	––
+540	Antoine Everett	OG	31	McNeese State	rSr	6-2	328	––
+541	Leon Orr	DT	38	Florida	rSr	6-5	319	––
+542	Yannik Cudjoe-Virgil	OLB	43	Maryland	rSr	6-2	255	––
+543	Matt Hubbard	P	11	Georgia State	Sr	6-4	235	––
+544	D.J. LynchInjured	ILB	28	Bowling Green	rSr	6-0	250	––
+545	R.J. Harris	WR	73	New Hampshire	rSr	6-0	201	––
+546	Austin BarronInjured	C	16	Florida State	Sr	6-3	293	––
+547	Will Tye	TE	29	Stony Brook	rSr	6-3	260	––
+548	Cyril Lemon	OG	32	North Texas	Sr	6-3	317	––
+549	Matt Milton	WR	74	Louisville	rSr	6-5	205	––
+550	Justin Hamilton	DT	39	UL Lafayette	Sr	6-2	315	––
+551	Fabbians Ebbele	OT	42	Arizona	rSr	6-8	311	––
+552	Venric Mark	RB	42	West Texas A&M	rSr	5-7	175	––
+553	Terrance Broadway	QB	29	UL Lafayette	rSr	6-2	221	––
+554	Tony Steward	OLB	44	Clemson	Sr	6-1	230	––
+555	Brandon Alexander	FS	24	UCF	Sr	6-2	195	––
+556	Cariel Brooks	CB	57	Adams State	Sr	5-9	196	––
+557	Braylon Webb	SS	24	Missouri	rSr	6-0	205	––
+558	Michael Burton	FB	15	Rutgers	rSr	6-0	235	––
+559	Angelo Pruitt	DE	43	Connecticut	rSr	6-2	287	––
+560	Qushaun Lee	ILB	29	Arkansas State	rSr	5-11	225	––
+561	Bobby Hart	OG	33	Florida State	Sr	6-5	336	––
+562	Damiere Byrd	WR	75	South Carolina	Sr	5-9	170	––
+563	Joe Townsend	C	17	Vanderbilt	Sr	6-3	308	––
+564	Angelo Blackson	DT	40	Auburn	Sr	6-5	319	––
+565	Blair Burns	CB	58	Wyoming	Sr	5-10	186	––
+566	Kennard Backman	TE	30	UAB	Sr	6-3	239	––
+567	Alonzo Harris	RB	43	UL Lafayette	Sr	6-1	243	––
+568	Malcolm Bunche	OG	34	UCLA	rSr	6-6	320	––
+569	Chi Chi Ariguzo	OLB	45	Northwestern	rSr	6-1	234	––
+570	Kalafitoni Pole	DT	41	Washington State	rSr	6-1	304	––
+571	Jarrett Dieudonne	FS	25	Wagner	rSr	6-1	190	––
+572	Jordan Williams	DE	44	Tennessee	Sr	6-5	284	––
+573	Ian Silberman	OT	43	Boston College	rSr	6-5	293	––
+574	Jeremiah Detmer	K	7	Toledo	Sr	5-7	183	––
+575	Terron Ward	RB	44	Oregon State	Sr	5-7	197	––
+576	Andy Phillips	OG	35	Central Michigan	rSr	6-3	306	––
+577	Ray Hamilton	TE	31	Iowa	Sr	6-4	252	––
+578	Ace Clark	SS	25	Western Carolina	rSr	6-2	217	––
+579	Stephon Sanders	OLB	46	Southern Methodist	Sr	6-2	251	––
+580	Rob???Donovan Lewis	CB	59	Louisiana-Monroe	rSr	5-10	188	––
+581	J.T. Surratt	DT	42	South Carolina	rSr	6-1	297	––
+582	Karl Mickelsen	ILB	30	Fresno State	Sr	6-0	234	––
+583	Paul Lasike	FB	16	Brigham Young	Sr	5-10	257	––
+584	Gabe Martin	OLB	47	Bowling Green	rSr	6-1	229	––
+585	Cameron Clemmons	OT	44	Western Kentucky	rSr	6-6	300	––
+586	Braylon Heard	RB	45	Kentucky	rJr	5-11	198	––
+587	Vernon Johnson	WR	76	Texas A&M-Commerce	Sr	5-11	188	––
+588	Randall Evans	CB	60	Kansas State	Sr	6-0	190	––
+589	Nick Easton	C	18	Harvard	Sr	6-2	307	––
+590	Tevin Carter	FS	26	Utah	Sr	6-1	215	––
+591	Ben Rhyne	P	12	Stanford	rSr	6-2	203	––
+592	Charles Tuaau	DT	43	Texas A&M-Commerce	rSr	6-4	327	––
+593	Lee Ward	FB	17	Stanford	rSr	6-1	245	––
+594	Mike McFarland	TE	32	South Florida	rSr	6-5	260	––
+595	Kalon Davis	OG	36	Clemson	rSr	6-5	340	––
+596	Simon Cvijanovic	OT	45	Illinois	rSr	6-6	310	––
+597	Travis Hughes	OLB	48	North Carolina	Sr	6-2	225	––
+598	Dylan Wynn	DE	45	Oregon State	Sr	6-2	270	––
+599	Dylan Thompson	QB	30	South Carolina	rSr	6-2	223	––
+600	Shakim Phillips	WR	77	Connecticut	rSr	6-2	206	––
+601	Austin CollinsworthInjured	SS	26	Notre Dame	rSr	6-0	205	––
+602	Cole Farrand	ILB	31	Maryland	Sr	6-3	244	––
+603	DeJuan Beard	WR	78	Washburn	rSr	6-1	195	––
+604	Reggie Owens	CB	61	Old Dominion	Sr	6-0	189	––
+605	Joe Hill	RB	46	Utah State	Sr	5-11	190	––
+606	Efrem Oliphant	OLB	49	Houston	rSr	6-1	230	––
+607	Pete Thomas	QB	31	Louisiana-Monroe	rSr	6-5	228	––
+608	Jeffrey Whitaker	DT	44	Auburn	rSr	6-3	322	––
+609	Shane Wynn	WR	79	Indiana	Sr	5-6	167	––
+610	Daniel Koenig	OT	46	Oklahoma State	rSr	6-6	300	––
+611	Art Norman	DE	46	North Carolina State	rSr	6-0	252	––
+612	Kyle Prater	WR	80	Northwestern	rSr	6-4	225	––
+613	Terry Williams	DT	45	East Carolina	rSr	6-1	344	––
+614	Jourdon Grandon	FS	27	Arizona	rSr	5-10	183	––
+615	Vince Buhagiar	OLB	50	San Jose State	Sr	6-4	252	––
+616	Terrence Jones	OG	37	Troy	rSr	6-3	325	––
+617	Dexter McDonald	CB	62	Kansas	rSr	6-1	203	––
+618	Patrick Miller	OT	47	Auburn	Jr	6-6	289	––
+619	Max Morgan	ILB	32	Colorado State	rSr	6-1	231	––
+620	Mark Myers	QB	32	John Carroll	rSr	6-4	220	––
+621	Jameon Lewis	WR	81	Mississippi State	rSr	5-8	184	––
+622	Blake Frohnapfel	QB	33	Massachusetts	rSr	6-5	230	––
+623	Lucus Gingold	FB	18	California	Sr	6-0	245	––
+624	Davon Walls	DT	46	Lincoln (MO)	Sr	6-5	292	––
+625	LeBranden Richardson	OLB	51	Bethune-Cookman	Sr	6-1	255	––
+626	Andre Debose	WR	82	Florida	rSr	6-0	190	––
+627	Kevin Rodgers	QB	34	Henderson State	rSr	6-3	205	––
+628	Marvin Kloss	K	8	South Florida	rSr	5-11	196	––
+629	Adam Redden	SS	27	Buffalo	rSr	6-1	202	––
+630	Tyreese Russell	TE	33	Eastern Michigan	Sr	6-3	238	––
+631	Prince-Tyson Gulley	RB	47	Syracuse	rSr	5-8	194	––
+632	Keanon Lowe	WR	83	Oregon	rSr	5-9	186	––
+633	Nordly Capi	DE	47	Akron	rSr	6-3	252	––
+634	Kyle Roberts	OT	48	Nevada	rSr	6-5	311	––
+635	Tom Farniok	C	19	Iowa State	rSr	6-3	300	––
+636	Floyd Raven Jr.	FS	28	Texas A&M	Sr	6-0	198	––
+637	DeAndre Jones	CB	63	Wyoming	Sr	6-0	186	––
+638	Ethan Farmer	DT	47	North Carolina	rSr	6-2	291	––
+639	Marquez Clark	WR	84	Central Oklahoma	Sr	5-10	190	––
+640	Cameron Lynch	OLB	52	Syracuse	Sr	5-11	227	––
+641	LaDarius Owens	DE	48	Auburn	rSr	6-1	250	––
+642	Andrew Manley	QB	35	Eastern Illinois	rSr	6-3	225	––
+643	Ben Riva	OT	49	Washington	rSr	6-6	313	––
+644	Chad Slade	OG	38	Auburn	rSr	6-4	317	––
+645	Addison Richards	WR	85	Regina	Sr	6-4	209	––
+646	Raheem Mostert	RB	48	Purdue	Sr	5-11	190	––
+647	Cameron Nwosu	ILB	33	Southern Methodist	Sr	5-10	240	––
+648	Clay FullerInjured	WR	86	Baylor	Sr	6-1	210	––
+649	Jack Konopka	OT	50	Northwestern	Sr	6-5	300	––
+650	Matt Hoch	DT	48	Missouri	rSr	6-4	295	––
+651	Connor McLaurin	FB	19	South Carolina	rSr	5-11	243	––
+652	Michael Doctor	OLB	53	Oregon State	rSr	5-11	221	––
+653	Tim Bennett	CB	64	Indiana	Sr	5-9	186	––
+654	Brian Vogler	TE	34	Alabama	rSr	6-6	263	––
+655	Matt JoeckelInjured	QB	36	TCU	rSr	6-4	237	––
+656	Gerald Bowman	SS	28	Southern California	Sr	6-0	205	––
+657	Darius White	WR	87	Missouri	rSr	6-3	208	––
+658	Cassius Sendish	FS	29	Kansas	rSr	6-0	195	––
+659	Scott Inskeep	OG	39	Texas-San Antonio	rSr	6-4	300	––
+660	Nick Hill	RB	49	Michigan State	rSr	5-8	197	––
+661	Darrian Miller	OT	51	Kentucky	Sr	6-5	293	––
+662	Robert Waterman	C	20	UNLV	rSr	6-2	290	––
+663	Brennen Beyer	OLB	54	Michigan	Sr	6-3	256	––
+664	Elkino Watson	DT	49	South Florida	Sr	6-2	289	––
+665	Tebucky Jones	WR	88	Fordham	rSr	5-11	197	––
+666	Jake Cotton	OG	40	Nebraska	Sr	6-6	305	––
+667	Detric Allen	CB	65	East Carolina	Sr	6-0	200	––
+668	Matt Dooley	LS	5	Indiana	Sr	6-4	245	––
+669	Jesse Scroggins	QB	37	Arizona	rSr	6-3	208	––
+670	Terrell Hartsfield	DE	49	Cincinnati	Sr	6-3	246	––
+671	Jamal RobinsonInjured	WR	89	UL Lafayette	Sr	6-3	205	––
+672	Tank Jakes	OLB	55	Memphis	Sr	5-11	225	––
+673	Darious Cummings	DT	50	Florida	Sr	6-1	297	––
+674	Charles Garrett	CB	66	Nevada	rSr	5-11	205	––
+675	Kevin Haplea	TE	35	Florida State	rSr	6-4	247	––
+676	Kenny Cook	WR	90	Gardner-Webb	rSr	6-3	210	––
+677	Nick Montana	QB	38	Tulane	rSr	6-3	207	––
+678	Chase Nelson	OT	52	Toledo	rSr	6-8	335	––
+679	Dominic Rufran	WR	91	Wyoming	Sr	6-0	188	––
+680	Bill Belton	RB	50	Penn State	Sr	5-9	204	––
+681	Kip Smith	P	13	Oklahoma State	rSr	6-1	235	––
+682	Jackie Williams	WR	92	UCF	rSr	5-11	190	––
+683	Javarie Johnson	OLB	56	New Mexico	rSr	6-4	248	––
+684	Marcus Mallet	ILB	34	TCU	rSr	6-1	227	––
+685	Jared Tevis	SS	29	Arizona	rSr	5-10	195	––
+686	David Parry	DT	51	Stanford	rSr	6-1	308	––
+687	Dior Mathis	CB	67	Oregon	rSr	5-9	175	––
+688	Solomone Kafu	OG	41	Brigham Young	rSr	6-2	315	––
+689	David Frazier	WR	93	Miami (Ohio)	Sr	6-0	179	––
+690	Joe Bergeron	RB	51	Texas A&M-Commerce	Sr	6-0	235	––
+691	Triston Wade	FS	30	Texas-San Antonio	Sr	5-11	170	––
+692	David Irving	DT	52	Iowa State	Sr	6-7	272	––
+693	Nick Richardson	OLB	57	Abilene Christian	rSr	6-1	240	––
+694	Christian Green	WR	94	Florida State	rSr	6-1	204	––
+695	Tyler Cierski	FB	20	Maryland	Sr	5-11	260	––
+696	Betim Bujari	C	21	Rutgers	rSr	6-3	295	––
+697	Antonio Johnson	OT	53	North Texas	rSr	6-5	310	––
+698	Tajh Hasson	CB	68	UNLV	rSr	6-1	195	––
+699	Ty Long	K	9	UAB	Sr	6-2	205	––
+700	Diaheem Watkins	DE	50	UAB	Sr	6-3	256	––
+701	Kendall Moore	ILB	35	Notre Dame	rSr	6-1	242	––
+702	Clay Burton	TE	36	Florida	Sr	6-4	248	––
+703	Ross Scheuerman	WR	95	Lafayette	Sr	6-0	205	––
+704	Quentin Hayes	SS	30	Oklahoma	rSr	6-0	190	––
+705	Jesse Callier	RB	52	Washington	rSr	5-10	202	––
+706	Derek Largent	OLB	58	San Diego State	rSr	6-4	240	––
+707	Davion Orphey	CB	69	Utah	Sr	6-0	185	––
+708	David Lefotu	OG	42	Hawaii	Sr	6-3	305	––
+709	Tacoi Sumler	WR	96	Appalachian State	rJr	5-9	175	––
+710	De'Ondre Wesley	OT	54	Brigham Young	Sr	6-7	330	––
+711	Juda Parker	DE	51	Colorado	Sr	6-2	270	––
+712	Marques Johnson	DT	53	Brigham Young	rSr	6-2	308	––
+713	Elliott Porter	C	22	LSU	Sr	6-4	298	––
+714	David Mackall	OLB	59	Delaware	rSr	6-3	250	––
+715	Reggie Gilbert	DE	52	Arizona	rSr	6-3	261	––
+716	Craig Bills	SS	31	Brigham Young	rSr	6-1	205	––
+717	DeAndre Smelter	WR	97	Georgia Tech	rSr	6-2	225	––
+718	Sterling Young	FS	31	Arkansas State	rSr	6-2	193	––
+719	Tony Creecy	RB	53	North Carolina State	rSr	5-11	215	––
+720	Anthony Robey	CB	70	Temple	rSr	5-10	190	––
+721	Cameron Jefferson	OG	43	Arkansas	rSr	6-5	307	––
+722	Deantre Lewis	RB	54	Arizona State	rSr	5-11	192	––
+723	Travis Dickson	TE	37	LSU	rSr	6-3	237	––
+724	Lemar Durant	WR	98	Simon Fraser	rJr	6-2	231	––
+725	Peniel Jean	CB	71	Wisconsin	rSr	5-11	187	––
+726	Jacob Gannon	OT	55	Iowa State	rSr	6-6	315	––
+727	Tevin Jackson	OLB	60	Texas	Sr	6-2	243	––
+728	Mike Thornton	DT	54	Georgia	rSr	6-1	296	––
+729	Valdon Cooper	CB	72	Georgia Southern	Sr	5-10	185	––
+730	Tyler Murphy	QB	39	Boston College	rSr	6-2	214	––
+731	Henry Coley	ILB	36	Virginia	rSr	6-1	230	––
+732	Desmond Roland	RB	55	Oklahoma State	Sr	6-2	210	––
+733	Todd Thomas	OLB	61	Pittsburgh	rSr	6-1	228	––
+734	Javess Blue	WR	99	Kentucky	Sr	5-11	187	––
+735	Jordan Williamson	K	10	Stanford	rSr	5-11	194	––
+736	Mike Replogle	FB	21	Indiana	Sr	6-2	245	––
+737	Mike Criste	C	23	Washington	rSr	6-6	318	––
+738	Josh Quezada	RB	56	Fresno State	rSr	5-11	217	––
+739	Kendall Lamm	OT	56	Appalachian State	rSr	6-6	305	––
+740	Quinn Backus	SS	32	Coastal Carolina	Sr	5-9	216	––
+741	Daniel Quave	OG	44	UL Lafayette	Sr	6-3	324	––
+742	Geoff Swaim	TE	38	Texas	Sr	6-4	242	––
+743	Landon Feichter	FS	32	Purdue	rSr	6-0	192	––
+744	Dawon Scott	WR	100	Miami (Ohio)	Sr	5-11	194	––
+745	C.J. Brown	QB	40	Maryland	rSr	6-3	210	––
+746	Sam Meredith	DT	55	San Diego State	Sr	6-4	290	––
+747	Darien Rankin	OLB	62	North Carolina	rJr	5-11	205	––
+748	Brandon Reddish	CB	73	Syracuse	Sr	5-10	186	––
+749	Nathan Jeffery	RB	57	Texas-El Paso	rSr	6-0	210	––
+750	Derrick Mathews	ILB	37	Houston	Sr	6-0	214	––
+751	Konrad Zagzebski	DE	53	Wisconsin	rSr	6-3	278	––
+752	Ross Apo	WR	101	Brigham Young	rSr	6-3	207	––
+753	Tyler Purvis	FB	22	North Carolina State	rSr	6-2	226	––
+754	Carroll Washington	CB	74	Arkansas	Sr	5-11	190	––
+755	Mitchell Henry	TE	39	Western Kentucky	Sr	6-3	244	––
+756	Donnie Baggs	OLB	63	Texas A&M	Sr	6-1	230	––
+757	Justin WorleyInjured	QB	41	Tennessee	Sr	6-4	224	––
+758	Darrell Williams	OT	57	South Florida	Sr	6-4	301	––
+759	Darius Kelly	FS	33	Syracuse	Sr	5-11	195	––
+760	Da'Ron Brown	WR	102	Northern Illinois	rSr	6-0	199	––
+761	Travis Bell	CB	75	West Virginia	rSr	6-1	194	––
+762	Travis Jackson	OG	45	Michigan State	rSr	6-3	290	––
+763	Chase Cochran	WR	103	Ohio	rSr	6-2	190	––
+764	Steve Miller	DE	54	Ohio State	Sr	6-3	255	––
+765	Josh Watson	DT	56	Clemson	rSr	6-4	290	––
+766	Bradley Marquez	WR	104	Texas Tech	Sr	5-10	200	––
+767	Collin Rahrig	C	24	Indiana	rSr	6-2	291	––
+768	Isaiah Fleming	OLB	64	Cheyney	Sr	5-11	225	––
+769	Garrett Frye	OT	58	Georgia Southern	Sr	6-5	290	––
+770	Jeremy Ioane	SS	33	Boise State	rSr	5-10	192	––
+771	Jeff LePak	TE	40	Eastern Illinois	rSr	6-6	232	––
+772	Marcus Coker	RB	58	Stony Brook	rSr	6-0	225	––
+773	Austin Sumner	QB	42	South Dakota State	Sr	6-4	235	––
+774	Jonathan McKnight	CB	76	Arizona	rSr	5-10	175	––
+775	Jaquel Pitts	WR	105	Trinity International	Jr	6-0	178	––
+776	Rashod Favors	DE	55	Oklahoma	rSr	6-1	253	––
+777	Deterrian Shackelford	ILB	38	Ole Miss	rSr	6-1	247	––
+778	Eli Rogers	WR	106	Louisville	Sr	5-10	182	––
+779	Nick Temple	OLB	65	Cincinnati	Sr	5-10	224	––
+780	Cedric Thompson	FS	34	Minnesota	Sr	5-11	205	––
+781	Bryan Douglas	CB	77	Boise State	rSr	5-9	176	––
+782	Tony Bell	SS	34	UT Martin	Sr	5-11	224	––
+783	Kenneth Harper	RB	59	Temple	Sr	6-0	225	––
+784	Justin Tukes	TE	41	UCF	rSr	6-5	255	––
+785	T.Y. McGill	DT	57	North Carolina State	Sr	6-1	289	––
+786	Michael Hunnicutt	K	11	Oklahoma	rSr	6-1	180	––
+787	Kaiwi Crabb	OG	46	Colorado	rSr	6-3	300	––
+788	Marcus Sullivan	WR	107	UNLV	rSr	5-9	195	––
+789	Adam Roberts	FB	23	San Diego State	Sr	6-3	235	––
+790	Justin DuVernois	P	14	Illinois	Sr	6-0	186	––
+791	Andre Lewis	WR	108	Utah	Sr	6-3	208	––
+792	Jonathan Atchison	OLB	66	West Texas A&M	rSr	6-2	236	––
+793	Sharrod Golightly	SS	35	South Carolina	rSr	5-10	187	––
+794	Alex Mateas	C	25	Connecticut	rSr	6-3	308	––
+795	Brandon Phelps	FS	35	Virginia	Sr	6-0	185	––
+796	DiAndre Campbell	WR	109	Washington	rSr	6-2	199	––
+797	Logan Feimster	LS	6	Wake Forest	rSr	6-4	245	––
+798	Adrian WittyInjured	CB	78	Cincinnati	rSr	5-10	187	––
+799	Mike Reilly	DE	56	William & Mary	Sr	6-4	265	––
+800	Jacob Carter	WR	110	Tennessee	rSr	6-0	190	––
+801	Lyle McCombs	RB	60	Rhode Island	rSr	5-8	171	––
+802	Eric Patterson	CB	79	Ball State	Sr	5-10	189	––
+803	Seth Betancourt	OT	59	Boston College	rSr	6-5	300	––
+804	Josh Keyes	OLB	67	Boston College	Sr	6-2	216	––
+805	Jabari Carr	WR	111	San Jose State	rSr	6-0	190	––
+806	Patrick Mertens	DT	58	Wyoming	rSr	6-5	285	––
+807	Hoko Fanaika	OG	47	LSU	Sr	6-6	330	––
+808	Jake FelyInjured	ILB	39	San Diego State	Sr	5-10	215	––
+809	Jon Davis	TE	42	Illinois	Sr	6-3	240	––
+810	Brandon Connette	QB	43	Fresno State	rSr	6-2	213	––
+811	Jarrick WilliamsInjured	SS	36	Alabama	rSr	6-1	215	––
+812	D.J. Warren	FB	24	Kentucky	Sr	6-0	250	––
+813	Beau Barnes	DE	57	Southern Methodist	Sr	6-5	255	––
+814	Sam Wren	DE	58	Oklahoma State	Sr	6-2	255	––
+815	Demarco Nelson	FS	36	Tulsa	Sr	6-0	192	––
+816	William Dukes	WR	112	Florida Atlantic	Sr	6-4	190	––
+817	Desmond Harrison	OT	60	Texas	Sr	6-8	318	––
+818	Cameron Ontko	OLB	68	Cal Poly	rSr	6-0	235	––
+819	Ngalu Fusimalohi	OG	48	Kansas	Sr	6-2	315	––
+820	Bud Delva	DT	59	Oregon State	Sr	6-3	294	––
+821	Jimmy Jean	CB	80	UAB	Sr	6-2	201	––
+822	Austin Reiter	C	26	South Florida	rSr	6-3	286	––
+823	Daniel Spencer	WR	113	Houston	Sr	5-11	195	––
+824	Mike Hardy	DE	59	Iowa	rSr	6-4	280	––
+825	Jonathan Truman	OLB	69	Kansas State	rSr	5-11	219	––
+826	Brandon Cottom	FB	25	Purdue	Sr	6-3	265	––
+827	Mark Murphy	SS	37	Indiana	Sr	6-1	210	––
+828	Emmanuel Johnson	FS	37	Southern Mississippi	Sr	5-11	182	––
+829	Andrew Gleichert	TE	43	Michigan State	Sr	6-5	264	––
+830	Jermaine Holmes	ILB	40	Marshall	Sr	5-11	246	––
+831	Damond Powell	WR	114	Iowa	Sr	5-11	180	––
+832	J.J. Whittaker	CB	81	San Diego State	rSr	5-10	180	––
+833	Beau Yap	DE	60	Hawaii	rSr	6-2	260	––
+834	Bronson Hill	RB	61	Eastern Michigan	Sr	5-10	215	––
+835	Jake Howe	DT	60	Illinois	rSr	6-3	300	––
+836	D.J. Alexander	OLB	70	Oregon State	Sr	6-2	222	––
+837	Jimmie Hunt	WR	115	Missouri	rSr	6-0	215	––
+838	Jeff Covitz	DE	61	Bryant	Sr	6-2	255	––
+839	Justin Sinz	TE	44	Purdue	rSr	6-4	249	––
+840	Mike Marboe	C	27	Idaho	rSr	6-2	296	––
+841	Trevor Harman	WR	116	Shippensburg	rSr	6-1	195	––
+842	Shawn Moffitt	K	12	UCF	Sr	5-11	180	––
+843	Michael Alisa	OLB	71	Brigham Young	rSr	6-1	220	––
+844	Kolton Houston	OT	61	Georgia	rSr	6-5	287	––
+845	Chris Barfield	OG	49	Fairmont State	rSr	6-2	295	––
+846	Trevence Patt	CB	82	UL Lafayette	rSr	6-0	197	––
+847	Zane Petty	FS	38	Illinois	Sr	6-1	205	––
+848	Hosey Williams	RB	62	Cincinnati	Sr	5-9	199	––
+849	Markeith Ambles	WR	117	Houston	rSr	6-2	215	––
+850	Caleb Schaffitzel	SS	38	Missouri State	Sr	6-0	217	––
+851	Derek Landisch	ILB	41	Wisconsin	Sr	6-0	230	––
+852	Zack Patt	DE	62	Rice	rSr	6-2	240	––
+853	Valerian Ume-Ezeoke	C	28	New Mexico State	Sr	6-3	295	––
+854	Quan Bray	WR	118	Auburn	Sr	5-10	195	––
+855	Collin Seibert	OG	50	Eastern Illinois	rSr	6-3	284	––
+856	Caushaud Lyons	DE	63	Tusculum	Sr	6-5	285	––
+857	Artez Brown	CB	83	Arkansas State	Sr	6-0	182	––
+858	Marquel Combs	DT	61	Southeastern Louisiana	Sr	6-2	291	––
+859	Cole Manhart	OT	62	Nebraska-Kearney	Sr	6-4	305	––
+860	Tony Pierson	WR	119	Kansas	Sr	5-10	175	––
+861	Shane Young	TE	45	Sam Houston State	Sr	6-4	256	––
+862	Daquan Romero	OLB	72	Virginia	Sr	6-1	235	––
+863	Savon HugginsInjured	RB	63	Rutgers	Sr	6-0	200	––
+864	Micah Robinson	DE	64	Syracuse	rSr	6-3	270	––
+865	Manasseh Garner	WR	120	Pittsburgh	rSr	6-2	230	––
+866	Andrew Johnson	CB	84	Louisville	Sr	5-9	186	––
+867	Tyrequek Zimmerman	SS	39	Oregon State	Sr	6-0	211	––
+868	Kristoff WilliamsInjured	WR	121	Washington State	rSr	6-2	214	––
+869	David Wang	C	29	Virginia Tech	rSr	6-2	298	––
+870	Brett Nottingham	QB	44	Columbia	rSr	6-3	218	––
+871	Ricky Connors	FB	26	Northern Illinois	rSr	6-1	250	––
+872	Jacob Hagen	FS	39	Liberty	Sr	6-3	205	––
+873	Zach D'Orazio	WR	122	Akron	rJr	6-2	217	––
+874	Christian Ringo	DE	65	UL Lafayette	Sr	6-1	298	––
+875	David Beasley	OG	51	Clemson	rSr	6-4	357	––
+876	Ken Malcome	RB	64	Southern Illinois	rSr	6-0	228	––
+877	Richy Turner	WR	123	Nevada	rSr	5-11	180	––
+878	Tyson Chandler	OT	63	North Carolina State	rSr	6-6	354	––
+879	Chris Dunkley	CB	85	South Florida	rSr	5-11	182	––
+880	Will Hagerup	P	15	Michigan	rSr	6-4	225	––
+881	Dominique Williams	SS	40	Boston College	rSr	6-0	218	––
+882	Martize Barr	WR	124	Illinois	Sr	6-0	195	––
+883	Willie Tucker	WR	125	Cal Poly	Sr	6-2	200	––
+884	Forrest Hill	LS	7	Auburn	Sr	6-1	248	––
+885	Keon StowersInjured	DT	62	Kansas	Sr	6-3	297	––
+886	Bryce Redman	C	30	Houston	rSr	6-1	285	––
+887	Ronnie Hamlin	OLB	73	Eastern Washington	rSr	6-2	235	––
+888	Laurence Gibson	OT	64	Virginia Tech	rSr	6-6	300	––
+889	Jerin McClendon	TE	46	Fresno State	Sr	6-7	255	––
+890	Niklas Sade	K	13	North Carolina State	Sr	6-3	215	––
+891	Travon Van	RB	65	Montana	rSr	5-10	195	––
+892	Will Schwarz	DE	66	Saginaw Valley	rSr	6-5	275	––
+893	Stephen Barnette	WR	126	Richmond	rSr	6-3	196	––
+894	Sam Eguavoen	ILB	42	Texas Tech	Sr	6-1	220	––
+895	Ronnie Vinson	CB	86	Tennessee State	rSr	5-11	185	––
+896	Quincy Forte	RB	66	Eastern Washington	Sr	5-11	200	––
+897	Dionte Savage	OG	52	Oklahoma	Sr	6-4	343	––
+898	Earnest Thomas III	SS	41	Illinois	rSr	6-1	210	––
+899	Bryan Underwood	WR	127	North Carolina State	rSr	5-9	179	––
+900	Sean Sylvia	FS	40	Boston College	rSr	6-0	200	––
+901	Travis Williams	OLB	74	Youngstown State	rSr	6-3	225	––
+902	Alex Hill	C	31	Illinois	rSr	6-3	310	––
+903	Tommylee LewisInjured	WR	128	Northern Illinois	Sr	5-7	159	––
+904	Carlos Thompson	DE	67	Ole Miss	rSr	6-4	243	––
+905	Matt Huffer	OT	65	South Dakota	rSr	6-6	305	––
+906	Devontae Johnson	CB	87	Florida A&M	rSr	6-0	183	––
+907	Brandon Fulse	TE	47	Auburn	Sr	6-4	258	––
+908	D.J. Howard	RB	67	Clemson	rSr	5-11	195	––
+909	Paul Jorgensen	OT	66	Northwestern	rSr	6-5	295	––
+910	Nate Willis	CB	88	Kentucky	Sr	6-0	174	––
+911	Sam Ajala	WR	129	Fordham	Sr	6-0	194	––
+912	Keon Williams	RB	68	Chattanooga	rSr	6-0	215	––
+913	Julian Howsare	DE	68	Clarion	rSr	6-2	255	––
+914	Jordan Leslie	WR	130	Brigham Young	rSr	6-2	210	––
+915	Parrish Gaines	FS	41	Navy	Sr	6-2	208	––
+916	Max Flores	OLB	75	Northern Colorado	Sr	6-0	224	––
+917	Vince Sanders	WR	131	Ole Miss	rSr	6-1	185	––
+918	Ashton Dorsey	DT	63	Texas A&M-Commerce	rSr	6-2	295	––
+919	Ishmael Banks	CB	89	West Virginia	rSr	6-0	184	––
+920	Mykkele Thompson	SS	42	Texas	Sr	6-2	183	––
+921	Channing Fugate	FB	27	Eastern Kentucky	rSr	6-1	248	––
+922	Ucambre Williams	OG	53	South Alabama	rSr	6-3	295	––
+923	Jack Tabb	TE	48	North Carolina	Sr	6-3	240	––
+924	Keiwone Malone	WR	132	Memphis	rSr	5-11	155	––
+925	Chris Adcock	C	32	California	rSr	6-3	295	––
+926	Garrett Safron	QB	45	Sacramento State	Sr	6-2	190	––
+927	Tahj Kimble	RB	69	North Alabama	rSr	5-10	211	––
+928	Beau Martin	DE	69	Boise State	rSr	6-2	254	––
+929	Ronnell Williams	ILB	43	West Chester	Sr	6-0	232	––
+930	Adrian Coxson	WR	133	Stony Brook	rSr	6-1	217	––
+931	Mack Brown	RB	70	Florida	rSr	5-11	209	––
+932	Joey Garside	FB	28	Wake Forest	rSr	5-10	235	––
+933	Keion Payne	CB	90	Troy	rSr	5-10	178	––
+934	Jonathon RumphInjured	WR	134	Georgia	Sr	6-4	218	––
+935	Jordan Hanson	DT	64	Nevada	rSr	6-2	280	––
+936	Robert Welsh	DE	70	Syracuse	rSr	6-3	248	––
+937	Pat Lewandowski	OT	67	Kansas	rSr	6-5	290	––
+938	Michael Yeck	OT	68	Brigham Young	rSr	6-8	292	––
+939	Jason Wilson	CB	91	Central Michigan	Sr	6-0	185	––
+940	Caleb Farris	OG	54	Virginia Tech	Sr	6-3	303	––
+941	Darvin Ruise	OLB	76	Missouri	rSr	6-1	240	––
+942	Johnathan Aiken	FS	42	Rutgers	Sr	5-11	190	––
+943	Rod Smith	RB	71	Ohio State	rSr	6-3	231	––
+944	Lucky Whitehead	WR	135	Florida Atlantic	Sr	5-9	170	––
+945	Rashawn ScottInjured	WR	136	Miami (Fla.)	Sr	6-2	203	––
+946	Sheroid Evans	CB	92	Texas	Sr	6-0	188	––
+947	Woodson Greer III	OLB	77	Colorado	Sr	6-3	215	––
+948	Dan Pettinato	DE	71	Arizona	rSr	6-4	283	––
+949	Kevin Snyder	ILB	44	Rutgers	Sr	6-3	235	––
+950	David Porter	WR	137	TCU	Sr	6-0	197	––
+951	Robert Kough	DE	72	Army	Sr	6-3	259	––
+952	Isaac Fruechte	WR	138	Minnesota	rSr	6-3	202	––
+953	Kellen Williams	FB	29	Vanderbilt	Sr	6-1	230	––
+954	Darryl Baldwin	OT	69	Ohio State	rSr	6-6	308	––
+955	Mark Pelini	C	33	Nebraska	rSr	6-0	290	––
+956	Riley Dixon	P	16	Syracuse	Sr	6-5	219	––
+957	Michael Johnson	WR	139	Delaware	Sr	6-1	210	––
+958	Trevor Romaine	K	14	Oregon State	Sr	6-0	196	––
+959	Andre Davis	OG	55	Buffalo	rSr	6-4	320	––
+960	Drew Carswell	WR	140	Indiana (PA)	rSr	6-4	218	––
+961	Manuel Asprilla	CB	93	Boston College	Sr	5-10	178	––
+962	Keeston Terry	SS	43	Pittsburg State	Sr	6-1	206	––
+963	Ian Hamilton	WR	141	Texas-El Paso	rSr	6-5	225	––
+964	Aaron Wimberly	RB	72	Iowa State	Sr	5-9	175	––
+965	Jamaal BassInjured	OLB	78	Northern Illinois	rSr	5-10	215	––
+966	A.J. Hendy	FS	43	Maryland	Sr	6-0	205	––
+967	Dallas Burroughs	WR	142	Boise State	Sr	5-9	165	––
+968	Devonte Brown	DT	65	North Carolina	Sr	6-3	280	––
+969	Jamerson Love	CB	94	Mississippi State	rSr	5-9	175	––
+970	Jalen Fitzpatrick	WR	143	Temple	Sr	5-11	180	––
+971	Deuce Robinson	DE	73	Appalachian State	Sr	6-4	260	––
+972	Shavarez Smith	WR	144	South Alabama	Sr	6-1	210	––
+973	Troy Baker	OT	70	Baylor	rSr	6-6	310	––
+974	Lorenzo Waters	SS	44	Rutgers	rSr	5-11	205	––
+975	Darius Davis	WR	145	Henderson State	rSr	5-10	212	––
+976	Blake Renaud	ILB	45	Boise State	Sr	6-2	247	––
+977	Donnell Kirkwood	RB	73	Minnesota	rSr	5-10	208	––
+978	Trovon Reed	CB	95	Auburn	rSr	6-0	190	––
+979	Dominique TerrellInjured	WR	146	Virginia	Sr	5-11	175	––
+980	Clay Honeycutt	FS	44	Texas A&M	rSr	6-2	200	––
+981	Michael Odiari	DE	74	Texas State	rSr	6-0	245	––
+982	Ronald Butler	WR	147	Utah State	Sr	6-0	185	––
+983	Kadetrix Marcus	SS	45	South Carolina	Sr	6-1	194	––
+984	Donavon Lewis	OLB	79	Fresno State	Sr	6-2	249	––
+985	Zach Dilley	C	34	San Diego State	rSr	6-5	295	––
+986	Darius Terrell	WR	148	North Texas	rSr	6-3	212	––
+987	Josh Mitchell	CB	96	Nebraska	rSr	5-11	160	––
+988	Ray Stovall	OLB	80	Louisiana-Monroe	rSr	6-2	220	––
+989	Derrick Wells	CB	97	Minnesota	Sr	6-0	201	––
+990	Isaac BennettInjured	RB	74	Pittsburgh	Sr	5-11	205	––
+991	Robert Clark	WR	149	Louisville	rSr	5-9	173	––
+992	Deonte Flowers	CB	98	Montana State	Sr	5-11	183	––
+993	Brentom Todd	DE	75	Tulsa	Sr	6-3	240	––
+994	Martin Jenkins	CB	99	Clemson	rSr	5-9	185	––
+995	Adam Humphries	WR	150	Clemson	Sr	5-11	190	––
+996	Justin Cherocci	ILB	46	Central Michigan	rSr	6-0	231	––
+997	James Kittredge	DT	66	Michigan State	Sr	6-4	295	––
+998	Chris Brathwaite	DT	67	Virginia	rSr	6-1	305	––
